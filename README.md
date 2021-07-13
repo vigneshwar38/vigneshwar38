@@ -1,8 +1,11 @@
-
 <h1 align="center">Hi 👋, I'm vigneshwar</h1>
-- 🌱 I’m currently learning vuejs, Html , CSS
+- 🔭 I’m currently working on <b>vue js</b>
 
-- 🔭 I’m currently working on ... **spotify clone**
+- 🌱 I’m currently learning **Framework, python**
+
+- 🤝 I’m looking for help with **vue js**
+
+- 💬 Ask me about **HTML,CSS,C,C++**
 
 - 📫 How to reach me **vigneshcv1999@gmail.com**
 
